@@ -1,0 +1,32 @@
+p{font-family:Georgia;text-align: center;font-size: 20;}
+#p1{color: #8b0000;}
+#p2{color: #9c5252;}
+#p3{color: #8d4e1b;}
+#p4{color: #ca7c3c;}
+#p5{color: #e4c412;}
+#p6{color: #b6a129;}
+#p7{color: #cf8543;}
+#p8{color: #606909;}
+#p9{color: #405c1b;}
+#p10{color: #ad4210;}
+#p11{color: #ee7707;}
+#p12{color: #793a07;}
+#p13{color: #516630;}
+#p14{color: #663c1a;}
+#p15{color: #2b470a;}
+#p16{color: #718845;}
+#p17{color: #aa9104;}
+#p18{color: #ad8437;}
+#p19{color: #4a5032;}
+#p20,#p21{color: #2b4924;}
+#p21{visibility: hidden;}
+body{background-image:url(Horror\ background.jpg);}
+h1,h2{font-family:Impact;text-align:center;}
+hr{background-color:rosybrown;height:4px;}
+p.names{text-align: right;color: #354623;font-family: Verdana;font-size: 15;}
+p.section{text-align: right;color: #3c4434;font-family: 'Times New Roman';font-size: 15;}
+#bg1{background-color: #e9b9b9;}
+#bg2{background-color: #cc8d8d;}
+.bg1{background-color: #a7bbc7;}
+.bg2{background-color: #88a9bd;}
+.bg3{background-color: #7897aa;}
